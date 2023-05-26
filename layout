@@ -1,0 +1,26 @@
+What is the goal of the site?
+1. Show dashboarding for work
+2. Develop some ML models
+3. provide some feeedback to me to use training
+    a. model out what est max is based on velocity
+    b. easy compare against last three trainings
+    c. compare out using rep maxes
+    d. provide where back-down sets should fall based on model/historic
+4. see weekly and monthly trend analysis - this will be the dashboards
+    a. Sleep
+    b. training volume
+    c. diet analysis
+    d. cardio
+    e. steps
+    f. weight
+5. One article that looks at data relationships weekly, monthly, quarterly
+    a. sleep scores from oura and training
+    b. food intake prior to lift/caffeine
+    c. time of training
+    d. track training volume and compare against size metrics
+    e.
+what needs done
+1. Database for lifts
+    a. log from sheets
+    b. velo data
+    c
