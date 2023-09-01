@@ -1,97 +1,135 @@
 method,week,sets,reps,weight,Notes,TargetReps,,,,,,,,,,
-5x531,1,5,5,76.5,,9,,,,,,,,,,72.5
-5x531,2,5,3,81,,7,,,,,,,,,,
-5x531,3,5,1,85.5,,5,,,,,,,,,,
-wendDouble,1,3,2,76.5,,,,,,,,,,,,
-wendDouble,2,3,2,81, go up at least 5% if feeling good or just repeat,,,,,,,,,,,
-wendDouble,3,3,1,85.5,can go up or just do the required work,,,,,,,,,,,
-Hyp,1,3,12,65,,15,,,,,,,,,,
-Hyp,2,3,11,67.5,,13,,,,,,,,,,
-Hyp,3,3,10,70,,12,,,,,,,,,,
-Hyp,4,3,11,67.5,,13,,,,,,,,,,
-Hyp,5,3,10,70,,12,,,,,,,,,,
-Hyp,6,3,9,72.5,,11,,,,,,,,,,
-Hyp,7,3,11,67.5,,13,,,,,,,,,,
-Hyp,8,3,10,70,,12,,,,,,,,,,
-Hyp,9,3,9,72.5,,11,,,,,,,,,,
-Hyp,10,3,10,70,,12,,,,,,,,,,
-Hyp,11,3,9,72.5,,11,,,,,,,,,,
-Hyp,12,3,8,75,,10,,,,,,,,,,
-Hyp,13,3,9,72.5,,11,,,,,,,,,,
-Hyp,14,3,8,75,,10,,,,,,,,,,
-Hyp,15,3,7,77.5,,9,,,,,,,,,,
-Hyp,16,3,8,75,,10,,,,,,,,,,
-Hyp,17,3,7,77.5,,9,,,,,,,,,,
-Hyp,18,3,6,80,,8,,,,,,,,,,
-Str,1,5,5,70,,10,,,,,,,,,,
-Str,2,5,4,75,,8,,,,,,,,,,
-Str,3,5,3,80,,6,,,,,,,,,,
-Str,4,5,5,72.5,,9,,,,,,,,,,
-Str,5,5,4,77.5,,7,,,,,,,,,,
-Str,6,5,3,82.5,,5,,,,,,,,,,
-Str,7,5,4,75,,8,,,,,,,,,,
-Str,8,5,3,80,,6,,,,,,,,,,
-Str,9,5,2,85,,4,,,,,,,,,,
-Str,10,5,4,77.5,,7,,,,,,,,,,
-Str,11,5,3,82.5,,5,,,,,,,,,,
-Str,12,5,2,87.5,,3,,,,,,,,,,
-Str,13,5,3,80,,6,,,,,,,,,,
-Str,14,5,2,85,,4,,,,,,,,,,
-Str,15,5,1,90,,2,,,,,,,,,,
-Str,16,5,3,85,,4,,,,,,,,,,
-Str,17,5,2,90,,2,,,,,,,,,,
-Str,18,5,1,95,,1,,,,,,,,,,
-Supp,1,4,11,60,,15,,,,,,,,,,
-Supp,2,4,9,65,,13,,,,,,,,,,
-Supp,3,4,8,70,,11,,,,,,,,,,
-Supp,4,4,10,62.5,,14,,,,,,,,,,
-Supp,5,4,8,67.5,,12,,,,,,,,,,
-Supp,6,4,7,72.5,,10,,,,,,,,,,
-Supp,7,4,9,65,,13,,,,,,,,,,
-Supp,8,4,8,70,,11,,,,,,,,,,
-Supp,9,4,7,75,,9,,,,,,,,,,
-Supp,10,4,8,67.5,,12,,,,,,,,,,
-Supp,11,4,7,72.5,,10,,,,,,,,,,
-Supp,12,4,5,77.5,,8,,,,,,,,,,
-Supp,13,4,8,70,,11,,,,,,,,,,
-Supp,14,4,7,75,,9,,,,,,,,,,
-Supp,15,4,4,80,,7,,,,,,,,,,
-Supp,16,4,7,75,,10,,,,,,,,,,
-Supp,17,4,4,80,,8,,,,,,,,,,
-Supp,18,4,3,85,,6,,,,,,,,,,
-Tech,1,10,3,70,,,,,,,,,,,,
-Tech,2,9,2,77.5,,7,,,,,,,,,,
-Tech,3,8,1,85,,4,,,,,,,,,,
-Tech,4,9,3,72.5,,,,,,,,,,,,
-Tech,5,8,2,80,,6,,,,,,,,,,
-Tech,6,7,1,87.5,,3,,,,,,,,,,
-Tech,7,8,3,75,,,,,,,,,,,,
-Tech,8,7,2,82.5,,5,,,,,,,,,,
-Tech,9,5,1,90,,2,,,,,,,,,,
-clustersSingle,1,2,9,85,,9,,,,,,,,,,
-clustersSingle,2,2,12,80,,12,,,,,,,,,,
-clustersSingle,3,2,7,90,,7,,,,,,,,,,
-clustersTriples,1,2,22,77.5,,18,,,,,,,,,,
-clustersTriples,2,2,30,72.5,,24,,,,,,,,,,
-clustersTriples,3,2,18,82.5,,14,,,,,,,,,,
-str,1,3-8,8-15,75-62.5,,,,,,,,,,,,
-JHCS,1,1,5,75,Clusters for 5 minutes,,,,,,,,,,,
-girodona,1,6,6,60,max 30 sec rest between sets,,,,,,,,,,,
-bfr,1,4,"30,15,15,x",20,,,,,,,,,,,,
-dropset,1,3,12,72.5,"do the set, drop 20, then drop another 20",,,,,,,,,,,
-rest drop,1,3,12,72.5,"set, rest, set, drop 20 set, rest, set drop 20 set",,,,,,,,,,,
-hundo,1,x,100,60,as many sets to get to 100 time,,,,,,,,,,,
-EDTHp,1,,14,62.5,10 mins beat 60,,,,,,,,,,,
-EDTMp,1,,10,70,10 mins beat 40,,,,,,,,,,,
-EDTLp,1,,6,77.5,10 mins beat 20,,,,,,,,,,,
-EDTs,1,,,,3 rir,,,,,,,,,,,
-TUTBand,1,4,"30,35,40,45",72.5,last set drop a band tension  or to bdy weight rep,,,,,,,,,,,
-contrast,1,6,"1,6,1,6,1,6","90,75,90,77.5,90,80",,,,,,,,,,,,
-highWave,1,6,"7,5,3,7,5,3","75,80,82.5,+10,+10,+10",,,,,,,,,,,,
-50s,1,x,50,70,as many sets to get to 50 time,,,,,,,,,,,
-back-offs,1,4,6-15,,work up to rep max and then take 90% of that and do 4 sets at same rep count,,,,,,,,,,,
-RPE15,1,4,15,62.5,,15,,,,,,,,,,
-RPE12,1,4,12,67.5,,12,,,,,,,,,,
-RPE10,1,4,10,71.5,,10,,,,,,,,,,
-RPE08,1,4,8,75,,8,,,,,,,,,,
-RPE06,1,4,6,80,,6,,,,,,,,,,
+5x531_1,5x531,1,5,5,76.5,,9
+5x531_2,5x531,2,5,3,81,,7
+5x531_3,5x531,3,5,1,85.5,,5
+wendDouble_1,wendDouble,1,2,1,82.5,cluster doubles/required work/drop 10% rep,
+wendDouble_2,wendDouble,2,2,1,85,go up five %/required/hard triple/clusters,
+wendDouble_3,wendDouble,3,2,1,87.5,go up 5%/clusters,
+Hyp_1,Hyp,1,3,12,65,,15
+Hyp_2,Hyp,2,3,11,67.5,,13
+Hyp_3,Hyp,3,3,10,70,,12
+Hyp_4,Hyp,4,3,11,67.5,,13
+Hyp_5,Hyp,5,3,10,70,,12
+Hyp_6,Hyp,6,3,9,72.5,,11
+Hyp_7,Hyp,7,3,11,67.5,,13
+Hyp_8,Hyp,8,3,10,70,,12
+Hyp_9,Hyp,9,3,9,72.5,,11
+Hyp_10,Hyp,10,3,10,70,,12
+Hyp_11,Hyp,11,3,9,72.5,,11
+Hyp_12,Hyp,12,3,8,75,,10
+Hyp_13,Hyp,13,3,9,72.5,,11
+Hyp_14,Hyp,14,3,8,75,,10
+Hyp_15,Hyp,15,3,7,77.5,,9
+Hyp_16,Hyp,16,3,8,75,,10
+Hyp_17,Hyp,17,3,7,77.5,,9
+Hyp_18,Hyp,18,3,6,80,,8
+Str_1,Str,1,5,5,70,,10
+Str_2,Str,2,5,4,75,,8
+Str_3,Str,3,5,3,80,,6
+Str_4,Str,4,5,5,72.5,,9
+Str_5,Str,5,5,4,77.5,,7
+Str_6,Str,6,5,3,82.5,,5
+Str_7,Str,7,5,4,75,,8
+Str_8,Str,8,5,3,80,,6
+Str_9,Str,9,5,2,85,,4
+Str_10,Str,10,5,4,77.5,,7
+Str_11,Str,11,5,3,82.5,,5
+Str_12,Str,12,5,2,87.5,,3
+Str_13,Str,13,5,3,80,,6
+Str_14,Str,14,5,2,85,,4
+Str_15,Str,15,5,1,90,,2
+Str_16,Str,16,5,3,85,,4
+Str_17,Str,17,5,2,90,,2
+Str_18,Str,18,5,1,95,,1
+Supp_1,Supp,1,4,11,60,,15
+Supp_2,Supp,2,4,9,65,,13
+Supp_3,Supp,3,4,8,70,,11
+Supp_4,Supp,4,4,10,62.5,,14
+Supp_5,Supp,5,4,8,67.5,,12
+Supp_6,Supp,6,4,7,72.5,,10
+Supp_7,Supp,7,4,9,65,,13
+Supp_8,Supp,8,4,8,70,,11
+Supp_9,Supp,9,4,7,75,,9
+Supp_10,Supp,10,4,8,67.5,,12
+Supp_11,Supp,11,4,7,72.5,,10
+Supp_12,Supp,12,4,5,77.5,,8
+Supp_13,Supp,13,4,8,70,,11
+Supp_14,Supp,14,4,7,75,,9
+Supp_15,Supp,15,4,4,80,,7
+Supp_16,Supp,16,4,7,75,,10
+Supp_17,Supp,17,4,4,80,,8
+Supp_18,Supp,18,4,3,85,,6
+Tech_1,Tech,1,10,3,70,,
+Tech_2,Tech,2,9,2,77.5,,7
+Tech_3,Tech,3,8,1,85,,4
+Tech_4,Tech,4,9,3,72.5,,
+Tech_5,Tech,5,8,2,80,,6
+Tech_6,Tech,6,7,1,87.5,,3
+Tech_7,Tech,7,8,3,75,,
+Tech_8,Tech,8,7,2,82.5,,5
+Tech_9,Tech,9,5,1,90,,2
+Grow_1,Grow,1,4,15,60,,17
+Grow_2,Grow,2,4,12,65,,14
+Grow_3,Grow,3,4,9,70,,12
+Grow_4,Grow,4,4,14,62.5,,16
+Grow_5,Grow,5,4,11,67.5,,13
+Grow_6,Grow,6,4,8,72.5,,11
+Grow_7,Grow,7,4,13,65,,14
+Grow_8,Grow,8,4,10,70,,12
+Grow_9,Grow,9,4,7,75,,10
+Build_1,Build,1,3,9,72.5,,9
+Build_2,Build,2,3,8,75,,8
+Build_3,Build,3,3,7,77.5,,7
+Build_4,Build,4,3,8,75,,8
+Build_5,Build,5,3,7,77.5,,7
+Build_6,Build,6,3,6,80,,6
+Build_7,Build,7,3,7,77.5,,7
+Build_8,Build,8,3,6,80,,6
+Build_9,Build,9,3,5,82.5,,5
+9hyp_1,9hyp,1,3,12,65,,14
+9hyp_2,9hyp,2,3,11,67.5,,13
+9hyp_3,9hyp,3,3,10,70,,12
+9hyp_4,9hyp,4,3,11,67.5,,13
+9hyp_5,9hyp,5,3,10,70,,12
+9hyp_6,9hyp,6,3,9,72.5,,11
+9hyp_7,9hyp,7,3,10,70,,12
+9hyp_8,9hyp,8,3,9,72.5,,11
+9hyp_9,9hyp,9,3,8,75,,10
+9str_1,9str,1,5,5,72.5,,9
+9str_2,9str,2,5,4,77.5,,7
+9str_3,9str,3,5,3,82.5,,5
+9str_4,9str,4,5,4,77.5,,7
+9str_5,9str,5,5,3,82.5,,5
+9str_6,9str,6,5,2,87.5,,3
+9str_7,9str,7,5,3,82.5,,5
+9str_8,9str,8,5,2,87.5,,3
+9str_9,9str,9,5,1,92.5,,2
+3Back_1,3Back,1,5,3,82.5,work up to weight and target then back at -5% set/reps,6
+3Back_2,3Back,2,4,2,86,work up to weight and target then back at -5% set/reps,5
+3Back_3,3Back,3,3,1,90,work up to weight and target then back at -5% set/reps,2
+3BackWeight_1,3BackWeight,1,5,5,75,work upto target backdown at prescribed,10
+3BackWeight_2,3BackWeight,2,5,4,77.5,work upto target backdown at prescribed,8
+3BackWeight_3,3BackWeight,3,5,3,80,work upto target backdown at prescribed,6
+clustersSingle_1,clustersSingle,1,3,6,85,,8
+clustersSingle_2,clustersSingle,2,3,8,80,,10
+clustersSingle_3,clustersSingle,3,3,4,90,,5
+clustersTriples_1,clustersTriples,1,1,22,77.5,,18
+clustersTriples_2,clustersTriples,2,1,30,72.5,,24
+clustersTriples_3,clustersTriples,3,1,18,82.5,,14
+str_1,str,1,3-8,8-15,75-62.5,,
+JHCS_1,JHCS,1,1,5,75,Clusters for 5 minutes,
+girodona_1,girodona,1,8,8,60,max 30 sec rest between sets,
+bfr_1,bfr,1,4,30 15 15 AMRAP,20,,
+dropset_1,dropset,1,3,12,72.5,do the set  drop 20  then drop another 20,
+rest drop_1,rest drop,1,3,12,72.5,set rest set drop 20 set rest set drop 20 set,
+hundo_1,hundo,1,x,100,60,as many sets to get to 100 time,
+EDTHp_1,EDTHp,1,,14,62.5,10 mins beat 60,
+EDTMp_1,EDTMp,1,,10,70,10 mins beat 40,
+EDTLp_1,EDTLp,1,,6,77.5,10 mins beat 20,
+EDTs_1,EDTs,1,,,,3 rir,
+TUTBand_1,TUTBand,1,4,30,,last set drop a band tension  or to bdy weight rep,
+contrast_1,contrast,1,6,1 6 1 6 1 6+,90 75 90 77.5 90 80,,
+highWave_1,highWave,1,6,7 5 3 7 5 3,75 80 82.5 +10 +10 +10,,
+50s_1,50s,1,x,50,70,as many sets to get to 50 time,
+back-offs_1,back-offs,1,4,6-15,,work up to rep max and then take 90% of that and do 4 sets at same rep count,
+Reps_1,Reps,1,4,,,Chain/band based as many total reps,
