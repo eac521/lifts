@@ -1,75 +1,79 @@
-exercise,split,max,repMaxCalc,veloEquation,kilos
-bench,upper/chest/push,157.5,,,TRUE
-squat,lower/legs,262.5,,,TRUE
-convo,back/pull,280,,,TRUE
-sumo,back/pull,285,,,TRUE
-trap,back/pull,308,,,TRUE
-ssb,lower/legs,250,,,TRUE
-box squat,lower/legs,240,,,TRUE
-pause squat,lower/legs,230,,,TRUE
-front squat,lower/legs,175,,,TRUE
-tempo squat,lower/legs,220,,,TRUE
-hatfield,lower/legs,280,,,TRUE
-hat split squat,lower/legs,150,,,TRUE
-split squat,lower/legs,100,,,TRUE
-SLDL,lower/legs,186,,,TRUE
-GoodMorning,lower/legs,117,,,TRUE
-Rack Pulls,back/pull,285,,,TRUE
-Block Pulls,back/pull,285,,,TRUE
-kabuki,upper/chest/push,150,,,TRUE
-kabuki close,upper/chest/push,140,,,TRUE
-kabuki wide,upper/chest/push,130,,,TRUE
-Incline Wide,upper/chest/push,110,,,TRUE
-Incline,upper/chest/push,120,,,TRUE
-Incline Close,upper/chest/push,105,,,TRUE
-SlingShot,upper/chest/push,173.25,,,TRUE
-2 Board,upper/chest/push,160,,,TRUE
-Close Grip,upper/chest/push,150,,,TRUE
-Militiary,upper/shoulders/push,90,,,TRUE
-BandBell Military,upper/shoulders/push,60,,,TRUE
-Floor,upper/chest/push,125,,,TRUE
-db bench,upper/chest/push,150,,,FALSE
-db incline,upper/chest/push,120,,,FALSE
-db military,upper/shoulders/push,85,,,FALSE
-pendlay row,back/pull,136,,,TRUE
-t-bar row,back/pull,112,,,TRUE
-cable row,back/pull,205,,,FALSE
-close pulldown,back/pull,,,,FALSE
-wide pulldown,back/pull,,,,FALSE
-seal row,back/pull,,,,TRUE
-meadows,back/pull,70,,,TRUE
-kabuki row,back/pull,,,,TRUE
-trap row,back/pull,,,,TRUE
-leg ext,lower/legs,,,,FALSE
-GHR,lower/legs,,,,FALSE
-lunges,lower/legs,,,,FALSE
-split sqt,lower/legs,,,,FALSE
-reverse nordic,lower/legs,,,,FALSE
-sissy sqt,lower/legs,,,,FALSE
-step ups,lower/legs,,,,FALSE
-touchdowns,lower/legs,,,,FALSE
-tke,lower/legs,,,,FALSE
-leg curl,lower/legs,,,,FALSE
-hat 1.5 squat,lower/legs,,,,FALSE
-goblet squat,lower/legs,,,,FALSE
-1.5 goblet squat,lower/legs,,,,FALSE
-spider walks,upper/shoulders/push,,,,FALSE
-rear delt raise,upper/shoulders/push,,,,FALSE
-arnold Press kb,upper/shoulders/push,,,,FALSE
-lat raise,upper/shoulders/push,,,,FALSE
-6ways,upper/shoulders/push,,,,FALSE
-bandbell press,upper/chest/push,,,,FALSE
-flyes,upper/chest/push,,,,FALSE
-push-ups,upper/chest/push,,,,FALSE
-pressdowns,upper/tricep/push,,,,FALSE
-dips,upper/tricep/push,,,,FALSE
-oh ext,upper/tricep/push,,,,FALSE
-BB Curl,upper/bicep/pull,,,,FALSE
-DB curl,upper/bicep/pull,,,,FALSE
-hammer curl,upper/bicep/pull,,,,FALSE
-ez bar curl,upper/bicep/pull,,,,FALSE
-incline db curl,upper/bicep/pull,,,,FALSE
-incline concentration curl db,upper/bicep/pull,,,,FALSE
-incline concentration curl kab,upper/bicep/pull,,,,FALSE
-incline concentration curl ez,upper/bicep/pull,,,,FALSE
-kab curl,upper/bicep/pull,,,,FALSE
+exercise,split,max,repMaxCalc,veloEquation,repMax10,repMax9,repMax8,repMax7,repMax6,repMax5,repmax4,repMax3,repMax2,kilos
+bench,upper/chest/push,157.5,,,,,,,,,,,,TRUE
+squat,lower/legs,262.5,,,,,,,,,,,,TRUE
+convo,back/pull,280,,,,,,,,,,,,TRUE
+sumo,back/pull,285,,,,,,,,,,,,TRUE
+trap,back/pull,308,,,,,,,,,,,,TRUE
+ssb,lower/legs,250,,,,,,,,,,,,TRUE
+box squat,lower/legs,240,,,,,,,,,,,,TRUE
+pause squat,lower/legs,230,,,,,,,,,,,,TRUE
+front squat,lower/legs,175,,,,,,,,,,,,TRUE
+tempo squat,lower/legs,220,,,,,,,,,,,,TRUE
+hatfield,lower/legs,280,,,,,,,,,,,,TRUE
+hat split squat,lower/legs,150,,,,,,,,,,,,TRUE
+split squat,lower/legs,100,,,,,,,,,,,,TRUE
+SLDL,lower/legs,186,,,,,,,,,,,,TRUE
+GoodMorning,lower/legs,117,,,,,,,,,,,,TRUE
+Wide box squat,lower/legs,225,,,,,,,,,,,,TRUE
+Rack Pulls,back/pull,285,,,,,,,,,,,,TRUE
+Block Pulls,back/pull,285,,,,,,,,,,,,TRUE
+kabuki,upper/chest/push,150,,,,,,,,,,,,TRUE
+kabuki close,upper/chest/push,140,,,,,,,,,,,,TRUE
+kabuki wide,upper/chest/push,130,,,,,,,,,,,,TRUE
+Incline Wide,upper/chest/push,110,,,,,,,,,,,,TRUE
+Incline,upper/chest/push,120,,,,,,,,,,,,TRUE
+Incline Close,upper/chest/push,105,,,,,,,,,,,,TRUE
+SlingShot,upper/chest/push,173.25,,,,,,,,,,,,TRUE
+2 Board,upper/chest/push,160,,,,,,,,,,,,TRUE
+tempo bench,upper/chest/push,142.5,,,,,,,,,,,,TRUE
+larson press,upper/chest/push,135,,,,,,,,,,,,TRUE
+pinpress,upper/chest/push,145,,,,,,,,,,,,TRUE
+Close Grip,upper/chest/push,150,,,,,,,,,,,,TRUE
+Militiary,upper/shoulders/push,90,,,,,,,,,,,,TRUE
+BandBell Military,upper/shoulders/push,60,,,,,,,,,,,,TRUE
+Floor,upper/chest/push,125,,,,,,,,,,,,TRUE
+db bench,upper/chest/push,150,,,,,,,,,,,,FALSE
+db incline,upper/chest/push,120,,,,,,,,,,,,FALSE
+db military,upper/shoulders/push,85,,,,,,,,,,,,FALSE
+pendlay row,back/pull,136,,,,,,,,,,,,TRUE
+t-bar row,back/pull,112,,,,,,,,,,,,TRUE
+cable row,back/pull,205,,,,,,,,,,,,FALSE
+close pulldown,back/pull,,,,,,,,,,,,,FALSE
+wide pulldown,back/pull,,,,,,,,,,,,,FALSE
+seal row,back/pull,,,,,,,,,,,,,TRUE
+meadows,back/pull,70,,,,,,,,,,,,TRUE
+kabuki row,back/pull,,,,,,,,,,,,,TRUE
+trap row,back/pull,,,,,,,,,,,,,TRUE
+leg ext,lower/legs,,,,,,,,,,,,,FALSE
+GHR,lower/legs,,,,,,,,,,,,,FALSE
+lunges,lower/legs,,,,,,,,,,,,,FALSE
+split sqt,lower/legs,,,,,,,,,,,,,FALSE
+reverse nordic,lower/legs,,,,,,,,,,,,,FALSE
+sissy sqt,lower/legs,,,,,,,,,,,,,FALSE
+step ups,lower/legs,,,,,,,,,,,,,FALSE
+touchdowns,lower/legs,,,,,,,,,,,,,FALSE
+tke,lower/legs,,,,,,,,,,,,,FALSE
+leg curl,lower/legs,,,,,,,,,,,,,FALSE
+hat 1.5 squat,lower/legs,,,,,,,,,,,,,FALSE
+goblet squat,lower/legs,,,,,,,,,,,,,FALSE
+1.5 goblet squat,lower/legs,,,,,,,,,,,,,FALSE
+spider walks,upper/shoulders/push,,,,,,,,,,,,,FALSE
+rear delt raise,upper/shoulders/push,,,,,,,,,,,,,FALSE
+arnold Press kb,upper/shoulders/push,,,,,,,,,,,,,FALSE
+lat raise,upper/shoulders/push,,,,,,,,,,,,,FALSE
+6ways,upper/shoulders/push,,,,,,,,,,,,,FALSE
+bandbell press,upper/chest/push,,,,,,,,,,,,,FALSE
+flyes,upper/chest/push,,,,,,,,,,,,,FALSE
+push-ups,upper/chest/push,,,,,,,,,,,,,FALSE
+pressdowns,upper/tricep/push,,,,,,,,,,,,,FALSE
+dips,upper/tricep/push,,,,,,,,,,,,,FALSE
+oh ext,upper/tricep/push,,,,,,,,,,,,,FALSE
+BB Curl,upper/bicep/pull,,,,,,,,,,,,,FALSE
+DB curl,upper/bicep/pull,,,,,,,,,,,,,FALSE
+hammer curl,upper/bicep/pull,,,,,,,,,,,,,FALSE
+ez bar curl,upper/bicep/pull,,,,,,,,,,,,,FALSE
+incline db curl,upper/bicep/pull,,,,,,,,,,,,,FALSE
+incline concentration curl db,upper/bicep/pull,,,,,,,,,,,,,FALSE
+incline concentration curl kab,upper/bicep/pull,,,,,,,,,,,,,FALSE
+incline concentration curl ez,upper/bicep/pull,,,,,,,,,,,,,FALSE
+kab curl,upper/bicep/pull,,,,,,,,,,,,,FALSE

@@ -1,10 +1,10 @@
-method,week,sets,reps,weight,Notes,TargetReps,,,,,,,,,,
+method_id,method,week,sets,reps,weight,Notes,TargetReps
 5x531_1,5x531,1,5,5,76.5,,9
 5x531_2,5x531,2,5,3,81,,7
 5x531_3,5x531,3,5,1,85.5,,5
-wendDouble_1,wendDouble,1,2,1,82.5,cluster doubles/required work/drop 10% rep,
-wendDouble_2,wendDouble,2,2,1,85,go up five %/required/hard triple/clusters,
-wendDouble_3,wendDouble,3,2,1,87.5,go up 5%/clusters,
+wendDouble_1,wendDouble,1,3,2,82.5,cluster doubles/required work/drop 10% rep,
+wendDouble_2,wendDouble,2,3,2,85,go up five %/required/hard triple/clusters/drop 10% rep,
+wendDouble_3,wendDouble,3,3,1,87.5,go up 5%/clusters,
 Hyp_1,Hyp,1,3,12,65,,15
 Hyp_2,Hyp,2,3,11,67.5,,13
 Hyp_3,Hyp,3,3,10,70,,12
@@ -68,6 +68,15 @@ Tech_6,Tech,6,7,1,87.5,,3
 Tech_7,Tech,7,8,3,75,,
 Tech_8,Tech,8,7,2,82.5,,5
 Tech_9,Tech,9,5,1,90,,2
+BandTech_1,BandTech,1,6,3,70,Mini for lower body/Micro upper,
+BandTech_2,BandTech,2,6,2,77.5,Mini for lower body/Micro upper,
+BandTech_3,BandTech,3,6,1,85,No Bands,
+BandTech_4,BandTech,4,5,3,72.5,Mini for lower body/Micro upper,
+BandTech_5,BandTech,5,5,2,80,Mini for lower body/Micro upper,
+BandTech_6,BandTech,6,5,1,87.5,No Bands,
+BandTech_7,BandTech,7,4,3,75,Mini for lower body/Micro upper,
+BandTech_8,BandTech,8,4,2,82.5,Mini for lower body/Micro upper,
+BandTech_9,BandTech,9,4,1,90,No Bands,
 Grow_1,Grow,1,4,15,60,,17
 Grow_2,Grow,2,4,12,65,,14
 Grow_3,Grow,3,4,9,70,,12
@@ -77,15 +86,15 @@ Grow_6,Grow,6,4,8,72.5,,11
 Grow_7,Grow,7,4,13,65,,14
 Grow_8,Grow,8,4,10,70,,12
 Grow_9,Grow,9,4,7,75,,10
-Build_1,Build,1,3,9,72.5,,9
-Build_2,Build,2,3,8,75,,8
-Build_3,Build,3,3,7,77.5,,7
-Build_4,Build,4,3,8,75,,8
-Build_5,Build,5,3,7,77.5,,7
-Build_6,Build,6,3,6,80,,6
-Build_7,Build,7,3,7,77.5,,7
-Build_8,Build,8,3,6,80,,6
-Build_9,Build,9,3,5,82.5,,5
+Build_1,Build,1,4,8,72.5,,9
+Build_2,Build,2,4,7,75,,8
+Build_3,Build,3,4,6,77.5,,7
+Build_4,Build,4,4,7,75,,8
+Build_5,Build,5,4,6,77.5,,7
+Build_6,Build,6,4,5,80,,6
+Build_7,Build,7,4,6,77.5,,7
+Build_8,Build,8,4,5,80,,6
+Build_9,Build,9,4,4,82.5,,5
 9hyp_1,9hyp,1,3,12,65,,14
 9hyp_2,9hyp,2,3,11,67.5,,13
 9hyp_3,9hyp,3,3,10,70,,12
@@ -108,19 +117,19 @@ Build_9,Build,9,3,5,82.5,,5
 3Back_2,3Back,2,4,2,86,work up to weight and target then back at -5% set/reps,5
 3Back_3,3Back,3,3,1,90,work up to weight and target then back at -5% set/reps,2
 3BackWeight_1,3BackWeight,1,5,5,75,work upto target backdown at prescribed,10
-3BackWeight_2,3BackWeight,2,5,4,77.5,work upto target backdown at prescribed,8
-3BackWeight_3,3BackWeight,3,5,3,80,work upto target backdown at prescribed,6
-clustersSingle_1,clustersSingle,1,3,6,85,,8
-clustersSingle_2,clustersSingle,2,3,8,80,,10
-clustersSingle_3,clustersSingle,3,3,4,90,,5
+3BackWeight_2,3BackWeight,2,5,3,80,work upto target backdown at prescribed,8
+3BackWeight_3,3BackWeight,3,5,1,85,work upto target  backdown at prescribed,6
+clustersSingle_1,clustersSingle,1,1,7,85,,9
+clustersSingle_2,clustersSingle,2,1,1,80,,12
+clustersSingle_3,clustersSingle,3,1,7,90,,7
 clustersTriples_1,clustersTriples,1,1,22,77.5,,18
 clustersTriples_2,clustersTriples,2,1,30,72.5,,24
 clustersTriples_3,clustersTriples,3,1,18,82.5,,14
 str_1,str,1,3-8,8-15,75-62.5,,
 JHCS_1,JHCS,1,1,5,75,Clusters for 5 minutes,
 girodona_1,girodona,1,8,8,60,max 30 sec rest between sets,
-bfr_1,bfr,1,4,30 15 15 AMRAP,20,,
-dropset_1,dropset,1,3,12,72.5,do the set  drop 20  then drop another 20,
+bfr_1,bfr,1,4,30 15 15 x,20,,
+dropset_1,dropset,1,3,12,72.5,do the set  drop 20 then drop another 20,
 rest drop_1,rest drop,1,3,12,72.5,set rest set drop 20 set rest set drop 20 set,
 hundo_1,hundo,1,x,100,60,as many sets to get to 100 time,
 EDTHp_1,EDTHp,1,,14,62.5,10 mins beat 60,
@@ -128,8 +137,26 @@ EDTMp_1,EDTMp,1,,10,70,10 mins beat 40,
 EDTLp_1,EDTLp,1,,6,77.5,10 mins beat 20,
 EDTs_1,EDTs,1,,,,3 rir,
 TUTBand_1,TUTBand,1,4,30,,last set drop a band tension  or to bdy weight rep,
-contrast_1,contrast,1,6,1 6 1 6 1 6+,90 75 90 77.5 90 80,,
+contrast_1,contrast,1,6,1 6 1 6 1 6,90 75 90 77.5 90 80,,
 highWave_1,highWave,1,6,7 5 3 7 5 3,75 80 82.5 +10 +10 +10,,
 50s_1,50s,1,x,50,70,as many sets to get to 50 time,
 back-offs_1,back-offs,1,4,6-15,,work up to rep max and then take 90% of that and do 4 sets at same rep count,
 Reps_1,Reps,1,4,,,Chain/band based as many total reps,
+TDS_1,TDS,1,5,3,80,,6
+TDS_2,TDS,2,5,2,82.5,,5
+TDS_3,TDS,3,5,1,85,,4
+TDS_4,TDS,4,4,3,82.5,,5
+TDS_5,TDS,5,4,2,85,,4
+TDS_6,TDS,6,4,1,87.5,,3
+TDS_7,TDS,7,3,3,85,,4
+TDS_8,TDS,8,3,2,87.5,,3
+TDS_9,TDS,9,3,1,90,,2
+9Supp_1,9Supp,1,4,8,70,,8
+9Supp_2,9Supp,2,4,7,72.5,,7
+9Supp_3,9Supp,3,4,6,75,,6
+9Supp_4,9Supp,4,4,7,74,,7
+9Supp_5,9Supp,5,4,6,76.5,,6
+9Supp_6,9Supp,6,4,5,79,,5
+9Supp_7,9Supp,7,4,6,79,,6
+9Supp_8,9Supp,8,4,5,81,,5
+9Supp_9,9Supp,9,4,4,83,,4
