@@ -5,13 +5,13 @@ import re
 import sqlite3
 
 conn = sqlite3.connect('./training.db')
-def create_meso_cycle(path,connection):
+def create_meso_cycle(filepath,connection):
     df = pd.DataFrame(columns = ['movement','method','week','sets','reps','weight','notes','targetReps'])
     prgbld = pd.read_sql('''
     select methodID, lower(method) as method, week, sets,reps,weight,notes,targetReps
     from programBuilder
     ''',conn)
-    mesoDF = pd.read_csv(dataPath+trainingFile).fillna(0)
+    mesoDF = pd.read_csv(filepath).fillna(0)
     maxes = pd.read_sql('''
     select movement,actualMax
     from movements
@@ -42,7 +42,7 @@ def create_meso_cycle(path,connection):
         final['weight{}'.format(wk)] = df[df.week==wk].weight.values
         final['targetReps{}'.format(wk)] = df[df.week==wk].targetReps.values
     
-    path = './site/initialData/meso_file.csv'
+    path = './initialData/meso_file.csv'
     final.to_csv(path)
     return final,path
 def add_data(path,table,connection,insert=False):
@@ -69,7 +69,7 @@ def update_movements_table(training_path,conn):
     '''
     Will take a csv of the training file, will find differences and update the database
     '''
-    training = pd.read_csv('./InitialData/training - TrainingCopy.csv',skiprows=1)
+    training = pd.read_csv(training_path,skiprows=1)
     training.movement = training.movement.str.lower()
     df = training.filter(['movement']+[col for col in training.columns if col.find('wrk')>-1])
     df = df.dropna().set_index('movement')
